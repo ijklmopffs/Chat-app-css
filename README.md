@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ijklmopffs/Chat-app-css)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://chatapp-css.netlify.app/)
 
 ## My process
 
